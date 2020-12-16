@@ -1,2 +1,4 @@
 # magic8ballNextjs
-Simple magic 8 ball app developed in nextjs
+This is a simple magic8ball app developed in Nextjs.
+
+The answers is displayed by calling the Magic8Ball Api which is developed in Java(REST/Jersey).
